@@ -144,7 +144,7 @@ export default function BlogHome() {
   );
 
   const CodeBlock = ({ children }) => (
-    <SyntaxHighlighter language="javascript" style={docco}>
+    <SyntaxHighlighter language="typescript" style={docco}>
       {children.props.children}
     </SyntaxHighlighter>
   );
