@@ -37,9 +37,9 @@
 
 ## :link: Live Demo
 
-Here's a [live demo](https://saadpasta.github.io/react-blog-github/#/)
+Here's a [live demo](https://chan4lk.github.io/blog/#/)
 
-Github [Issues / Blogs](https://github.com/saadpasta/react-blog-github/issues)
+Github [Issues / Blogs](https://github.com/chan4lk/blog/issues)
 
 
 --- 
@@ -91,19 +91,19 @@ export const config = {
   githubConvertedToken: "Github Converted Token",
 
   //   Your Github User Name
-  githubUserName: "saadpasta",
+  githubUserName: "chan4lk",
 
   //   Your Github Repo Name Where You Have your issues as Blog
 
-  githubRepo: "react-blog-github",
+  githubRepo: "blog",
 
   // Your Personal Blog Title 
 
-  title : "Saad Pasta" , 
+  title : "Chandima's Blog" , 
 
   // Your Personal Blog Subtitle 
 
-  subtitle : "Front End Developer Blog"
+  subtitle : "Full Stack Developer Blog"
   
 };
 
@@ -112,7 +112,7 @@ export const config = {
 ### 4. **Write A Blog.**
 After doing following changes now you just need to write a blog on repository issues that you have mentioned in your `config.js`
 
-- Open your repository [github issues](https://github.com/saadpasta/react-blog-github/issues)
+- Open your repository [github issues](https://github.com/chan4lk/blog/issues)
 - Create a new issue 
 - Now write your blog in github issue in markdown. You can also use [slack edit](https://stackedit.io/app#) to write your markdown
 - Add a label `blog` on your github issue to make it different from other standard issues. Keep in mind `blog` label is mandatory otherwise it won't show on your website.
@@ -150,7 +150,7 @@ This project is inspired from many other similar projects.
 
 ## 🤝 Contributing
 
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/saadpasta/react-blog-github/issues)!  We need all the help we can get to make this project awesome!
+Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/chan4lk/blog/issues)!  We need all the help we can get to make this project awesome!
 
 ## :boom: Todo
 - Add Comment From Github
